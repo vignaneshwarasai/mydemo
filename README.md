@@ -1,4 +1,4 @@
 # mydemo
 This is my first Git repos 
 <br>
-vignan
+author vignan
